@@ -1,0 +1,10 @@
+1) git status : to show you the status of the file
+2) git add <filename> : it means you add the filem
+3) git commit -m "message" : to commit the file
+4) git push origin master
+
+
+
+5) git branch--all : to see allfeature branch
+6) git brnach <name> : tpo create a feature branch ny name 
+7) git checkout <branchname> : to jump btw bramches
