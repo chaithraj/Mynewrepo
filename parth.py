@@ -1,7 +1,3 @@
-print('hello chaitra')
-print(5+1)
-
-
-
-
-new line added
+name = "parth"
+flet = name[0:1]
+print(flet)
